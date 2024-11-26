@@ -1,10 +1,18 @@
-Projeto Apollo
+-Equipe OSAKA
+-Projeto Apollo
 ![APOLLO-PRINT](https://github.com/user-attachments/assets/44f79b52-3fbc-4d92-84aa-7351597f4772)
 
 <img width="1783" alt="Screenshot 2024-11-26 at 20 14 24" src="https://github.com/user-attachments/assets/809cf737-f0c7-455f-9b75-a4c8643f5921">
 
 
+
 -Projeto se trata de uma planilha online, com objetivo de ter confiabilidade na informacao,onde se trata gestao e controle de obras de uma empresa de TELECOM.
+
+-Para acessar a ferramenta vai ser necessario um cadastro, onde ususario é direcionado a pagina home onde ira poder acessar a pagina principal.
+
+-Temos funcionalidades de insert, update, delete das informacoes de controle de obras que analista esta tratando.
+
+-Tecnologias usado no projeto: JavaScript, React, HTML, Banco de dados- Mysql.
 
 Este projeto foi inicializado com o Create React App.
 
