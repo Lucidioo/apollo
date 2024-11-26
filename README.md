@@ -1,5 +1,7 @@
 -Equipe OSAKA
+
 -Projeto Apollo
+
 ![APOLLO-PRINT](https://github.com/user-attachments/assets/44f79b52-3fbc-4d92-84aa-7351597f4772)
 
 <img width="1783" alt="Screenshot 2024-11-26 at 20 14 24" src="https://github.com/user-attachments/assets/809cf737-f0c7-455f-9b75-a4c8643f5921">
